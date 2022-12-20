@@ -1,0 +1,47 @@
+﻿  AmericanCallOption.cpp
+  AmericanOption.cpp
+  AmericanPutOption.cpp
+  AsianCallOption.cpp
+  AsianOption.cpp
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\AsianOption.cpp(26,20): warning C4018: '<' : incompatibilité signed/unsigned
+  AsianPutOption.cpp
+  BlackScholesMCPricer.cpp
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\BlackScholesMCPricer.cpp(48,21): warning C4018: '<' : incompatibilité signed/unsigned
+  BlackScholesPricer.cpp
+  CRRPricer.cpp
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\BinaryTree.h(27,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\BinaryTree.h(23): message : pendant la compilation de la fonction membre classe modèle 'void BinaryTree<double>::PascalTriangle(int)'
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\BinaryTree.h(19): message : voir la référence à l'instanciation de la fonction modèle 'void BinaryTree<double>::PascalTriangle(int)' en cours de compilation
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\CRRPricer.h(18): message : voir la référence à l'instanciation classe modèle 'BinaryTree<double>' en cours de compilation
+  CallOption.cpp
+  DigitalCallOption.cpp
+  DigitalOption.cpp
+  DigitalPutOption.cpp
+  Option.cpp
+  PutOption.cpp
+  Source.cpp
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\BinaryTree.h(58,12): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=double
+          ]
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\BinaryTree.h(43): message : pendant la compilation de la fonction membre classe modèle 'void BinaryTree<double>::display(void)'
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\Source.cpp(94): message : voir la référence à l'instanciation de la fonction modèle 'void BinaryTree<double>::display(void)' en cours de compilation
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\CRRPricer.h(18): message : voir la référence à l'instanciation classe modèle 'BinaryTree<double>' en cours de compilation
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\BinaryTree.h(69,20): warning C4244: '=' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=double
+          ]
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\BinaryTree.h(71,20): warning C4244: '=' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=double
+          ]
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\BinaryTree.h(27,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\BinaryTree.h(23): message : pendant la compilation de la fonction membre classe modèle 'void BinaryTree<int>::PascalTriangle(int)'
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\BinaryTree.h(19): message : voir la référence à l'instanciation de la fonction modèle 'void BinaryTree<int>::PascalTriangle(int)' en cours de compilation
+C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Projet\Source.cpp(100): message : voir la référence à l'instanciation classe modèle 'BinaryTree<int>' en cours de compilation
+  VanillaOption.cpp
+  Génération de code en cours...
+  Projet.vcxproj -> C:\Users\lukas\Documents\ESILV\ESILV A4\C++\C++ for finance project 2022\Projet\Debug\Projet.exe
